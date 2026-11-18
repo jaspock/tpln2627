@@ -8,7 +8,7 @@
 - Assignments before the class of Dec 9, 2026: Read the materials related to feedforward neural networks and transformers, linked in this [section](text.md#before-text2) and then complete [this test](https://forms.gle/7KDwRtXcrpxsKjHp7) (deadline: 23:59 CET, Dec 08 2026).
 - Assignments before the class of Dec 2, 2026: read the materials related to logistic regressors, embeddings and PyTorch linked in this [section](text.md#before-text1) and then complete [this test](https://forms.gle/V3U9MTHo7c9DNhkc6) (deadline: 23:59 CET, Dec 01 2026). 
 -->
-- Assignments before the class of Nov 25, 2026: read the contents of section [Introduction to computational linguistics and natural language processing](cl.md); after that, complete [this test](https://forms.gle/e17kghu2jdu3iiYp6) (deadline: 23:59 CET, Nov 24 2026).
+- Assignments before the class of Nov 25, 2026: read the contents of section [Introduction to computational linguistics and natural language processing](cl.md); after that, complete the quiz that you will find in the [course's Moodle](https://moodle2026-27.ua.es/moodle/course/view.php?id=1720) (deadline: 23:59 CET, Nov 24 2026).
 
 ## Course Syllabus and Rules
 
