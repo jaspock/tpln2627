@@ -26,7 +26,7 @@ For information regarding the course assessment, please refer to the [course off
 
 The [source code][source] of these pages, written in markdown for MkDocs, is available on GitHub.
 
-[source]: https://github.com/mespla/tpln2627
+[source]: https://github.com/jaspock/tpln2627
 
 You can obtain a local copy of these pages (e.g., for offline access) by executing:
 
